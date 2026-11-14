@@ -28,18 +28,6 @@ DOMPurify (HTML sanitization)
 dotenv (environment variables)
 cors (cross-origin requests)
 
-📁 Project Structure
-project-root/
-├── server.js
-├── package.json
-├── .env
-├── public/
-│   ├── index.html
-│   ├── index.js
-│   ├── utils.js
-│   └── styles.css
-🔐 Environment Variables
-
 Create a .env file in the root directory:
 
 GROQ_API_KEY=your_api_key_here
